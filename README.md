@@ -1,6 +1,6 @@
 # Style Shoes HTML-CSS Project
 
-## What I Used
+## What I Used Languages and Tools
 
 - Made using html and css
 
